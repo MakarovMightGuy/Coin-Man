@@ -1,0 +1,4 @@
+com/zappycode/coinman/game/BuildConfig.java
+ com.zappycode.coinman.game.BuildConfig
+com/zappycode/coinman/game/AndroidLauncher.java
+ com.zappycode.coinman.game.AndroidLauncher
